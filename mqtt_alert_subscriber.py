@@ -10,7 +10,7 @@ TOPIC = "savonia/iot/temperature"
 THRESHOLD = 28.0
 
 # Your specific Telegram details
-TOKEN = "8696863333:AAFAtqQ0tbS8CDgk768gccAQIg26RG5ghEQ"
+TOKEN = ""
 # IMPORTANT: Replace the number below with the ID from @userinfobot
 CHAT_ID = "" 
 
